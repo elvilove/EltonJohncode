@@ -1,0 +1,91 @@
+/* THIS FILE SHOULD CONTAIN ALL YOUR STYLES */
+
+/* GLOBAL STYLES fonts, general stuff */
+
+footer {
+  padding: 30px 10px;
+  color: yellow;
+  text-align: center;
+  background: #000000;
+}
+
+footer .footer-title {
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+/* HOME PAGE STYLES */
+body.homepage footer {
+  display: none;
+}
+
+/* ABOUT PAGE STYLES */
+footer {
+  padding: 30px 10px;
+  color: yellow;
+  text-align: center;
+  background: #000000;
+}
+
+footer .footer-title {
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+/* DISCOGRAPHY PAGE STYLES */
+footer {
+  padding: 30px 10px;
+  color: yellow;
+  text-align: center;
+  background: #000000;
+}
+
+footer .footer-title {
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+/* MEDIA PAGE STYLES */
+footer {
+  padding: 30px 10px;
+  color: yellow;
+  text-align: center;
+  background: #000000;
+}
+
+footer .footer-title {
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+/* MERCH PAGE STYLES */
+footer {
+  padding: 30px 10px;
+  color: yellow;
+  text-align: center;
+  background: #000000;
+}
+
+footer .footer-title {
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+/* TOUR PAGE STYLES *
+footer {
+  padding: 30px 10px;
+  color: yellow;
+  text-align: center;
+  background: #000000;
+}
+
+footer .footer-title {
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+.tour-page {
+
+}
+
+.tour-page table {
+
+}
